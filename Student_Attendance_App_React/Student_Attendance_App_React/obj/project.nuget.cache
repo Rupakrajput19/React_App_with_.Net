@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "frp7/jM8CcGROWU+sFBTYCbvdB2MWPfo8h5Rd+HSEX4d3m8b7vGDRdzcvR6TdbhEubegpwZoDEYTc9F8Kkn83A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ritu Kumar\\OneDrive\\Desktop\\React with C# .Net\\Student_Attendance_App_React\\Student_Attendance_App_React\\Student_Attendance_App_React.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ritu Kumar\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.10\\microsoft.aspnetcore.spaproxy.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
